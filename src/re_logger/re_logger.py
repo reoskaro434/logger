@@ -3,7 +3,7 @@ import logging
 import os
 
 
-class Logger:
+class ReLogger:
     def __init__(self, logger_name, level=logging.DEBUG, log_path='./logs'):
         self.__configure_logger(logger_name, level, log_path)
 
