@@ -1,1 +1,1 @@
-from re_logger import ReLogger
+from .re_logger import ReLogger
