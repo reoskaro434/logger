@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "resanter_logger"
-version = "0.0.1"
+version = "0.0.4"
 authors = [
   { name="resanter", email="reoskaro434@gmail.com" },
 ]
